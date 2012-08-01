@@ -5,7 +5,7 @@
 
 # Usage
 show_help(){
-  echo "Usage is $0 -a|-m|-n|-c|-d|-l|-h -C count -I interval -D /path/to/output/directory"
+  echo "Usage is $0 -a|-m|-n|-c|-d|-l|-s|-h -C count -I interval -D /path/to/output/directory"
   echo "-a or --all to plot cpu(c),mem(m),net(n),disk(d) and load(l)"
 }
 
